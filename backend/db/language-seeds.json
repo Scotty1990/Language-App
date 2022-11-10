@@ -1,0 +1,15 @@
+[
+    {
+        "language": "German",
+        "word": "haben",
+        "type": "verb",
+        "translation": "to have"
+    },
+    {
+        "language": "German",
+        "word": "Hund",
+        "type": "noun",
+        "gender": "masculine",
+        "translation": "dog"
+    }
+]
